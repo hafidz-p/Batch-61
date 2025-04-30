@@ -63,11 +63,11 @@ body {
 }
 
 .download-icon {
-    color: #1f2937;
+    color: #000000;
 }
 
 .download-icon:hover {
-    color: #9ca3af;
+    color: #000000;
 }
 
 .button-icon {
@@ -82,24 +82,24 @@ body {
 }
 
 .social-icon {
-    color: #4b5563;
+    color: #000000;
     text-decoration: none;
 }
 
 .social-icon.linkedin:hover {
-    color: #3b82f6;
+    color: #000000;
 }
 
 .social-icon.instagram:hover {
-    color: #ec4899;
+    color: #000000;
 }
 
 .social-icon.facebook:hover {
-    color: #2563eb;
+    color: #000000;
 }
 
 .social-icon.twitter:hover {
-    color: #60a5fa;
+    color: #000000;
 }
 
 .profile-card-container {
