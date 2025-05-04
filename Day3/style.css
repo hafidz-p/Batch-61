@@ -30,3 +30,17 @@ h1 {
     margin: auto;
 } */
 
+button.dropdown-toggle {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+}
+
+button.dropdown-toggle .caret {
+    margin-top: 0; 
+    align-self: center; 
+} 
+
+.custom-btn {
+    background-color: #ffffff !important; 
+}
